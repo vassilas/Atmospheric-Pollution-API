@@ -1,0 +1,33 @@
+#main_container
+{
+	padding:0; 
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	width:1007px;
+}
+#map_header
+{
+	/*background-color:#d9d9d9;
+	*/text-align:center;
+}
+	
+#map_container
+{
+	width:1000px;
+	margin:0 auto;
+}
+
+#map_insert_data 
+{
+	/*background-color:#d9d9d9;
+	*/height: 25px;
+	padding-top:5px;
+}
+
+#mapCanvas 
+{
+    width: 1000px;
+    height: 600px;
+    float: left;
+}

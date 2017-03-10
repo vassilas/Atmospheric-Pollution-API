@@ -1,0 +1,91 @@
+#main_container
+{
+	padding:0; 
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	width:1007px;
+}
+/*
+#mapCanvas 
+{
+    width: 1000px;
+    height: 600px;
+    float: left;
+	margin:0 auto;
+	
+}
+
+#insert_map_container 
+{
+    width: 1000px;
+    height: 600px;
+    float: left;
+	margin:0 auto;
+	
+}*/
+
+
+#Demo_2_site
+{
+	background : url(icons/cover5.jpg);
+	background-repeat: no-repeat;
+	 background-size:cover;
+	
+	background-color: #fff ;
+	margin-left : 370px; 
+	margin-right : 370px; 
+	
+	padding-bottom : 5px ;
+	padding-top : 5px ;
+	
+	border-style: groove;
+	
+	border-radius: 25px;
+}
+
+#Demo_2_site a
+{
+	cursor:pointer;
+	text-align:center;
+	font:21px/100% Georgia, "Times New Roman", Times, serif;
+	font-weight:bold;
+
+	min-width:50px;
+	height:20px;
+
+	text-decoration:none;
+}
+
+#heat_map_site
+{
+	background : url(icons/heat_ico.png);
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	
+	background-color: #fff ;
+	margin-left : 370px; 
+	margin-right : 370px; 
+	
+	padding-bottom : 5px ;
+	padding-top : 5px ;
+	
+	border-style: groove;
+	
+	border-radius: 25px;
+}
+
+#heat_map_site a
+{
+	cursor:pointer;
+	text-align:center;
+	font:21px/100% Georgia, "Times New Roman", Times, serif;
+	font-weight:bold;
+
+	min-width:50px;
+	height:20px;
+
+	text-decoration:none;
+}
+
+
